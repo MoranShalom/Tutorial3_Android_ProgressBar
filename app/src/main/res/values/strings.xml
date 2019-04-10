@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial3_ProgressBar</string>
+    <string name="show_progress_bar">Show Progress Bar</string>
+    <string name="hide_progress_bar">Hide Progress Bar</string>
+</resources>
